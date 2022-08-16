@@ -1,0 +1,1 @@
+ArmaReforgerServer.exe -profile ArmaReforgerServer -config "C:\Users\Administrator\Documents\My Games\ArmaReforgerServer\profile\config.json"
